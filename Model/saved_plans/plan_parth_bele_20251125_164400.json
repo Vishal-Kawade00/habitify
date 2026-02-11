@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "user": {
+      "name": "parth bele",
+      "age": 18,
+      "gender": "Male",
+      "height_cm": 151.0,
+      "weight_kg": 67.0,
+      "goal": "Maintain Weight",
+      "diet_pref": "Veg",
+      "medical": "Diabetes"
+    },
+    "generated_at": "2025-11-25 16:44:00.932339",
+    "calorie_target": 2102
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Khasta kachori",
+      "Calories": 712.73,
+      "Protein": 2.51,
+      "Carbs": 12.81,
+      "Fat": 72.27,
+      "Fibre": 0.97,
+      "Sugar": 0.34
+    },
+    {
+      "FoodItem": "Dum aloo",
+      "Calories": 682.33,
+      "Protein": 0.7,
+      "Carbs": 3.33,
+      "Fat": 74.01,
+      "Fibre": 0.68,
+      "Sugar": 0.71
+    },
+    {
+      "FoodItem": "Gunjia",
+      "Calories": 667.34,
+      "Protein": 2.98,
+      "Carbs": 5.68,
+      "Fat": 70.28,
+      "Fibre": 1.13,
+      "Sugar": 2.05
+    },
+    {
+      "FoodItem": "Spinach peanut namak paras (Palak moongfali namak paras)",
+      "Calories": 740.16,
+      "Protein": 1.65,
+      "Carbs": 6.62,
+      "Fat": 78.51,
+      "Fibre": 0.81,
+      "Sugar": 0.28
+    },
+    {
+      "FoodItem": "Methi poori",
+      "Calories": 710.02,
+      "Protein": 1.45,
+      "Carbs": 7.98,
+      "Fat": 74.6,
+      "Fibre": 1.61,
+      "Sugar": 0.26
+    },
+    {
+      "FoodItem": "Paneer and pea samosa (Paneer matar ka samosa)",
+      "Calories": 623.81,
+      "Protein": 4.02,
+      "Carbs": 8.55,
+      "Fat": 63.65,
+      "Fibre": 1.02,
+      "Sugar": 1.69
+    },
+    {
+      "FoodItem": "Spinach chickpeas cutlet (Palak channa dal cutlet)",
+      "Calories": 688.03,
+      "Protein": 1.44,
+      "Carbs": 4.93,
+      "Fat": 73.6,
+      "Fibre": 0.93,
+      "Sugar": 0.16
+    },
+    {
+      "FoodItem": "Mutton chops",
+      "Calories": 663.64,
+      "Protein": 4.03,
+      "Carbs": 1.48,
+      "Fat": 71.31,
+      "Fibre": 0.17,
+      "Sugar": 0.42
+    },
+    {
+      "FoodItem": "Potato pakora/pakoda (Aloo pakoda)",
+      "Calories": 677.19,
+      "Protein": 1.9,
+      "Carbs": 6.04,
+      "Fat": 71.84,
+      "Fibre": 1.03,
+      "Sugar": 0.22
+    },
+    {
+      "FoodItem": "Papdi",
+      "Calories": 708.96,
+      "Protein": 1.83,
+      "Carbs": 12.89,
+      "Fat": 72.11,
+      "Fibre": 0.56,
+      "Sugar": 0.31
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Ski machine",
+      "Calories_per_kg": 1.44133935522388,
+      "Category": "Cardio",
+      "Est_Cals_session": 96.56973679999996,
+      "demo_link": "https://www.youtube.com/results?search_query=Ski+machine"
+    },
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 82.73518080000004,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Aerobics, low impact",
+      "Calories_per_kg": 1.02972154029851,
+      "Category": "Cardio",
+      "Est_Cals_session": 68.99134320000017,
+      "demo_link": "https://www.youtube.com/results?search_query=Aerobics%2C+low+impact"
+    },
+    {
+      "Activity": "Stair machine",
+      "Calories_per_kg": 1.85295717014925,
+      "Category": "Cardio",
+      "Est_Cals_session": 124.14813039999974,
+      "demo_link": "https://www.youtube.com/results?search_query=Stair+machine"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 110.40429279999988,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Maintain balance of cardio and strength training for overall fitness.",
+    "Diet filtered for medical condition: Diabetes. Consult a doctor for specific advice."
+  ]
+}

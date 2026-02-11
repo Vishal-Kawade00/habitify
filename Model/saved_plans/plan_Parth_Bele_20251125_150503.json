@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Male",
+      "height_cm": 161.0,
+      "weight_kg": 48.0,
+      "goal": "Lose Weight",
+      "diet_pref": "NonVeg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 15:05:03.688925",
+    "calorie_target": 1426
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Saffron biscuit (Kesar biscuit)",
+      "Calories": 458.61,
+      "Protein": 6.05,
+      "Carbs": 59.7,
+      "Fat": 22.01,
+      "Fibre": 1.9,
+      "Sugar": 22.42
+    },
+    {
+      "FoodItem": "Yam fried (Zimikand/Suran fried)",
+      "Calories": 491.76,
+      "Protein": 0.79,
+      "Carbs": 5.47,
+      "Fat": 51.79,
+      "Fibre": 1.44,
+      "Sugar": 0.8
+    },
+    {
+      "FoodItem": "Coconut biscuit (Nariyal ke biscuit)",
+      "Calories": 434.98,
+      "Protein": 5.78,
+      "Carbs": 42.9,
+      "Fat": 27.16,
+      "Fibre": 3.64,
+      "Sugar": 20.76
+    },
+    {
+      "FoodItem": "Tutti fruitti biscuit",
+      "Calories": 420.78,
+      "Protein": 5.21,
+      "Carbs": 53.12,
+      "Fat": 17.9,
+      "Fibre": 5.43,
+      "Sugar": 15.75
+    },
+    {
+      "FoodItem": "Coffee drops",
+      "Calories": 443.07,
+      "Protein": 7.57,
+      "Carbs": 43.06,
+      "Fat": 27.16,
+      "Fibre": 1.88,
+      "Sugar": 18.27
+    },
+    {
+      "FoodItem": "Chocolate walnut cookies (Chocolate aur akhrot ke cookies)",
+      "Calories": 424.8,
+      "Protein": 6.56,
+      "Carbs": 47.1,
+      "Fat": 23.62,
+      "Fibre": 1.54,
+      "Sugar": 22.58
+    },
+    {
+      "FoodItem": "Short bread cookies",
+      "Calories": 443.09,
+      "Protein": 6.03,
+      "Carbs": 64.82,
+      "Fat": 17.98,
+      "Fibre": 1.57,
+      "Sugar": 23.31
+    },
+    {
+      "FoodItem": "Gulab jamun with milk powder",
+      "Calories": 471.15,
+      "Protein": 0.85,
+      "Carbs": 28.24,
+      "Fat": 40.15,
+      "Fibre": 0.05,
+      "Sugar": 27.04
+    },
+    {
+      "FoodItem": "Melting moments",
+      "Calories": 437.91,
+      "Protein": 5.71,
+      "Carbs": 55.84,
+      "Fat": 21.78,
+      "Fibre": 1.88,
+      "Sugar": 25.0
+    },
+    {
+      "FoodItem": "Sesame biscuit (Til ke biscuit)",
+      "Calories": 424.03,
+      "Protein": 8.27,
+      "Carbs": 53.65,
+      "Fat": 19.34,
+      "Fibre": 6.83,
+      "Sugar": 29.73
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Running, 10.9 mph (5.5 min mile)",
+      "Calories_per_kg": 3.70659134328358,
+      "Category": "Cardio",
+      "Est_Cals_session": 177.91638447761184,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+10.9+mph+%285.5+min+mile%29"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 118.61092298507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 118.61092298507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Cross country skiing, uphill",
+      "Calories_per_kg": 3.39787798208955,
+      "Category": "Cardio",
+      "Est_Cals_session": 163.0981431402984,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+uphill"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 138.3685781014925,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Speed skating, ice, competitive",
+      "Calories_per_kg": 3.08916462089552,
+      "Category": "Mixed",
+      "Est_Cals_session": 148.27990180298497,
+      "demo_link": "https://www.youtube.com/results?search_query=Speed+skating%2C+ice%2C+competitive"
+    },
+    {
+      "Activity": "Skin diving, moderate",
+      "Calories_per_kg": 2.57464235223881,
+      "Category": "Cardio",
+      "Est_Cals_session": 123.58283290746289,
+      "demo_link": "https://www.youtube.com/results?search_query=Skin+diving%2C+moderate"
+    },
+    {
+      "Activity": "Cycling, >20 mph, racing",
+      "Calories_per_kg": 3.29497352835821,
+      "Category": "Mixed",
+      "Est_Cals_session": 158.15872936119408,
+      "demo_link": "https://www.youtube.com/results?search_query=Cycling%2C+%3E20+mph%2C+racing"
+    },
+    {
+      "Activity": "Roller blading, in-line skating",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 118.61092298507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Roller+blading%2C+in-line+skating"
+    },
+    {
+      "Activity": "Squash",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 118.61092298507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Squash"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise."
+  ]
+}

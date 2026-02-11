@@ -1,0 +1,249 @@
+Activity,Calories_per_kg,Category
+"Cycling, mountain bike, bmx",1.75072971940299,Mixed
+"Cycling, <10 mph, leisure bicycling",0.823235629850746,Mixed
+"Cycling, >20 mph, racing",3.29497352835821,Mixed
+"Cycling, 10-11.9 mph, light",1.23485344477612,Mixed
+"Cycling, 12-13.9 mph, moderate",1.64782526567164,Mixed
+"Cycling, 14-15.9 mph, vigorous",2.05944308059702,Mixed
+"Cycling, 16-19 mph, very fast, racing",2.47106089552239,Mixed
+Unicycling,1.02972154029851,Mixed
+"Stationary cycling, very light",0.61742672238806,Mixed
+"Stationary cycling, light",1.13262599402985,Mixed
+"Stationary cycling, moderate",1.44133935522388,Mixed
+"Stationary cycling, vigorous",2.16234753432836,Mixed
+"Stationary cycling, very vigorous",2.57464235223881,Mixed
+"Calisthenics, vigorous, pushups, situps…",1.64782526567164,Strength
+"Calisthenics, light",0.721008179104478,Mixed
+"Circuit training, minimal rest",1.64782526567164,Mixed
+"Weight lifting, body building, vigorous",1.23485344477612,Strength
+"Weight lifting, light workout",0.61742672238806,Strength
+Health club exercise,1.13262599402985,Mixed
+Stair machine,1.85295717014925,Cardio
+"Rowing machine, light",0.721008179104478,Mixed
+"Rowing machine, moderate",1.44133935522388,Mixed
+"Rowing machine, vigorous",1.75072971940299,Mixed
+"Rowing machine, very vigorous",2.47106089552239,Mixed
+Ski machine,1.44133935522388,Cardio
+"Aerobics, low impact",1.02972154029851,Cardio
+"Aerobics, high impact",1.44133935522388,Cardio
+"Aerobics, step aerobics",1.75072971940299,Cardio
+"Aerobics, general",1.33843490149254,Cardio
+Jazzercise,1.23485344477612,Mixed
+"Stretching, hatha yoga",0.823235629850746,Mixed
+Mild stretching,0.515199271641791,Mixed
+Instructing aerobic class,1.23485344477612,Cardio
+Water aerobics,0.823235629850746,Cardio
+"Ballet, twist, jazz, tap",0.927494089552239,Mixed
+"Ballroom dancing, slow",0.61742672238806,Mixed
+"Ballroom dancing, fast",1.13262599402985,Mixed
+"Running, 5 mph (12 minute mile)",1.64782526567164,Cardio
+"Running, 5.2 mph (11.5 minute mile)",1.85295717014925,Cardio
+"Running, 6 mph (10 min mile)",2.05944308059702,Cardio
+"Running, 6.7 mph (9 min mile)",2.2652519880597,Cardio
+"Running, 7 mph (8.5 min mile)",2.36815644179104,Cardio
+"Running, 7.5mph (8 min mile)",2.57464235223881,Cardio
+"Running, 8 mph (7.5 min mile)",2.77977425671642,Cardio
+"Running, 8.6 mph (7 min mile)",2.88267871044776,Cardio
+"Running, 9 mph (6.5 min mile)",3.08916462089552,Cardio
+"Running, 10 mph (6 min mile)",3.29497352835821,Cardio
+"Running, 10.9 mph (5.5 min mile)",3.70659134328358,Cardio
+"Running, cross country",1.85295717014925,Cardio
+"Running, general",1.64782526567164,Cardio
+"Running, on a track, team practice",2.05944308059702,Cardio
+"Running, stairs, up",3.08916462089552,Cardio
+"Track and field (shot, discus)",0.823235629850746,Mixed
+"Track and field (high jump, pole vault)",1.23485344477612,Mixed
+Track and field (hurdles),2.05944308059702,Mixed
+Archery,0.721008179104478,Mixed
+Badminton,0.927494089552239,Mixed
+"Basketball game, competitive",1.64782526567164,Mixed
+"Playing basketball, non game",1.23485344477612,Mixed
+"Basketball, officiating",1.44133935522388,Mixed
+"Basketball, shooting baskets",0.927494089552239,Mixed
+"Basketball, wheelchair",1.33843490149254,Mixed
+"Running, training, pushing wheelchair",1.64782526567164,Cardio
+Billiards,0.515199271641791,Mixed
+Bowling,0.61742672238806,Mixed
+"Boxing, in ring",2.47106089552239,Mixed
+"Boxing, punching bag",1.23485344477612,Mixed
+"Boxing, sparring",1.85295717014925,Mixed
+"Coaching: football, basketball, soccer…",0.823235629850746,Mixed
+"Cricket (batting, bowling)",1.02972154029851,Mixed
+Croquet,0.515199271641791,Mixed
+Curling,0.823235629850746,Strength
+Darts (wall or lawn),0.515199271641791,Mixed
+Fencing,1.23485344477612,Mixed
+"Football, competitive",1.85295717014925,Mixed
+"Football, touch, flag, general",1.64782526567164,Mixed
+"Football or baseball, playing catch",0.515199271641791,Mixed
+"Frisbee playing, general",0.61742672238806,Mixed
+"Frisbee, ultimate frisbee",1.64782526567164,Mixed
+"Golf, general",0.927494089552239,Mixed
+"Golf, walking and carrying clubs",0.927494089552239,Mixed
+"Golf, driving range",0.61742672238806,Mixed
+"Golf, miniature golf",0.61742672238806,Mixed
+"Golf, walking and pulling clubs",0.885519904477612,Strength
+"Golf, using power cart",0.721008179104478,Mixed
+Gymnastics,0.823235629850746,Mixed
+Hacky sack,0.823235629850746,Mixed
+Handball,2.47106089552239,Mixed
+"Handball, team",1.64782526567164,Mixed
+"Hockey, field hockey",1.64782526567164,Mixed
+"Hockey, ice hockey",1.64782526567164,Mixed
+"Riding a horse, general",0.823235629850746,Mixed
+"Horesback riding, saddling horse",0.721008179104478,Mixed
+"Horseback riding, grooming horse",0.721008179104478,Mixed
+"Horseback riding, trotting",1.33843490149254,Mixed
+"Horseback riding, walking",0.515199271641791,Mixed
+"Horse racing, galloping",1.64782526567164,Mixed
+"Horse grooming, moderate",1.23485344477612,Mixed
+Horseshoe pitching,0.61742672238806,Mixed
+Jai alai,2.47106089552239,Mixed
+"Martial arts, judo, karate, jujitsu",2.05944308059702,Mixed
+"Martial arts, kick boxing",2.05944308059702,Mixed
+"Martial arts, tae kwan do",2.05944308059702,Mixed
+Krav maga training,2.05944308059702,Mixed
+Juggling,0.823235629850746,Mixed
+Kickball,1.44133935522388,Mixed
+Lacrosse,1.64782526567164,Mixed
+Orienteering,1.85295717014925,Mixed
+Playing paddleball,1.23485344477612,Mixed
+"Paddleball, competitive",2.05944308059702,Mixed
+Polo,1.64782526567164,Mixed
+"Racquetball, competitive",2.05944308059702,Mixed
+Playing racquetball,1.44133935522388,Mixed
+"Rock climbing, ascending rock",2.2652519880597,Mixed
+"Rock climbing, rappelling",1.64782526567164,Mixed
+"Jumping rope, fast",2.47106089552239,Mixed
+"Jumping rope, moderate",2.05944308059702,Mixed
+"Jumping rope, slow",1.64782526567164,Mixed
+Rugby,2.05944308059702,Mixed
+"Shuffleboard, lawn bowling",0.61742672238806,Mixed
+Skateboarding,1.02972154029851,Mixed
+Roller skating,1.44133935522388,Mixed
+"Roller blading, in-line skating",2.47106089552239,Mixed
+Sky diving,0.61742672238806,Mixed
+"Soccer, competitive",2.05944308059702,Mixed
+Playing soccer,1.44133935522388,Mixed
+Softball or baseball,1.02972154029851,Mixed
+"Softball, officiating",0.823235629850746,Mixed
+"Softball, pitching",1.23485344477612,Mixed
+Squash,2.47106089552239,Mixed
+"Table tennis, ping pong",0.823235629850746,Mixed
+Tai chi,0.823235629850746,Mixed
+Playing tennis,1.44133935522388,Mixed
+"Tennis, doubles",1.23485344477612,Mixed
+"Tennis, singles",1.64782526567164,Mixed
+Trampoline,0.721008179104478,Mixed
+"Volleyball, competitive",1.64782526567164,Mixed
+Playing volleyball,0.61742672238806,Mixed
+"Volleyball, beach",1.64782526567164,Mixed
+Wrestling,1.23485344477612,Mixed
+Wallyball,1.44133935522388,Mixed
+"Backpacking, Hiking with pack",1.44133935522388,Mixed
+"Carrying infant, level ground",0.721008179104478,Mixed
+"Carrying infant, upstairs",1.02972154029851,Cardio
+"Carrying 16 to 24 lbs, upstairs",1.23485344477612,Cardio
+"Carrying 25 to 49 lbs, upstairs",1.64782526567164,Cardio
+"Standing, playing with children, light",0.576806543283582,Mixed
+"Walk/run, playing with children, moderate",0.823235629850746,Cardio
+"Walk/run, playing with children, vigorous",1.02972154029851,Cardio
+Carrying small children,0.61742672238806,Mixed
+"Loading, unloading car",0.61742672238806,Mixed
+"Climbing hills, carrying up to 9 lbs",1.44133935522388,Mixed
+"Climbing hills, carrying 10 to 20 lb",1.5449208119403,Mixed
+"Climbing hills, carrying 21 to 42 lb",1.64782526567164,Mixed
+"Climbing hills, carrying over 42 lb",1.85295717014925,Mixed
+Walking downstairs,0.61742672238806,Cardio
+"Hiking, cross country",1.23485344477612,Mixed
+Bird watching,0.515199271641791,Mixed
+"Marching, rapidly, military",1.33843490149254,Mixed
+"Children's games, hopscotch, dodgeball",1.02972154029851,Mixed
+Pushing stroller or walking with children,0.515199271641791,Strength
+Pushing a wheelchair,0.823235629850746,Strength
+Race walking,1.33843490149254,Mixed
+"Rock climbing, mountain climbing",1.64782526567164,Mixed
+Walking using crutches,1.02972154029851,Mixed
+Walking the dog,0.61742672238806,Mixed
+"Walking, under 2.0 mph, very slow",0.411617814925373,Mixed
+"Walking 2.0 mph, slow",0.515199271641791,Mixed
+Walking 2.5 mph,0.61742672238806,Mixed
+"Walking 3.0 mph, moderate",0.679710997014925,Mixed
+"Walking 3.5 mph, brisk pace",0.782615450746269,Mixed
+"Walking 3.5 mph, uphill",1.23485344477612,Mixed
+"Walking 4.0 mph, very brisk",1.02972154029851,Mixed
+Walking 4.5 mph,1.29713771940299,Mixed
+Walking 5.0 mph,1.64782526567164,Mixed
+"Boating, power, speed boat",0.515199271641791,Mixed
+"Canoeing, camping trip",0.823235629850746,Mixed
+"Canoeing, rowing, light",0.61742672238806,Mixed
+"Canoeing, rowing, moderate",1.44133935522388,Mixed
+"Canoeing, rowing, vigorous",2.47106089552239,Mixed
+"Crew, sculling, rowing, competition",2.47106089552239,Mixed
+Kayaking,1.02972154029851,Mixed
+Paddle boat,0.823235629850746,Mixed
+"Windsurfing, sailing",0.61742672238806,Mixed
+"Sailing, competition",1.02972154029851,Mixed
+"Sailing, yachting, ocean sailing",0.61742672238806,Mixed
+"Skiing, water skiing",1.23485344477612,Cardio
+Ski mobiling,1.44133935522388,Cardio
+"Skin diving, fast",3.29497352835821,Cardio
+"Skin diving, moderate",2.57464235223881,Cardio
+"Skin diving, scuba diving",1.44133935522388,Cardio
+Snorkeling,1.02972154029851,Mixed
+"Surfing, body surfing or board surfing",0.61742672238806,Mixed
+"Whitewater rafting, kayaking, canoeing",1.02972154029851,Mixed
+"Swimming laps, freestyle, fast",2.05944308059702,Cardio
+"Swimming laps, freestyle, slow",1.44133935522388,Cardio
+Swimming backstroke,1.44133935522388,Cardio
+Swimming breaststroke,2.05944308059702,Cardio
+Swimming butterfly,2.2652519880597,Cardio
+"Swimming leisurely, not laps",1.23485344477612,Cardio
+Swimming sidestroke,1.64782526567164,Cardio
+Swimming synchronized,1.64782526567164,Cardio
+"Swimming, treading water, fast, vigorous",2.05944308059702,Cardio
+"Swimming, treading water, moderate",0.823235629850746,Cardio
+"Water aerobics, water calisthenics",0.823235629850746,Cardio
+Water polo,2.05944308059702,Mixed
+Water volleyball,0.61742672238806,Mixed
+Water jogging,1.64782526567164,Mixed
+"Diving, springboard or platform",0.61742672238806,Mixed
+"Ice skating, < 9 mph",1.13262599402985,Mixed
+"Ice skating, average speed",1.44133935522388,Mixed
+"Ice skating, rapidly",1.85295717014925,Mixed
+"Speed skating, ice, competitive",3.08916462089552,Mixed
+"Cross country snow skiing, slow",1.44133935522388,Cardio
+"Cross country skiing, moderate",1.64782526567164,Cardio
+"Cross country skiing, vigorous",1.85295717014925,Cardio
+"Cross country skiing, racing",2.88267871044776,Cardio
+"Cross country skiing, uphill",3.39787798208955,Cardio
+"Snow skiing, downhill skiing, light",1.02972154029851,Cardio
+"Downhill snow skiing, moderate",1.23485344477612,Cardio
+"Downhill snow skiing, racing",1.64782526567164,Cardio
+"Sledding, tobagganing, luge",1.44133935522388,Mixed
+Snow shoeing,1.64782526567164,Mixed
+Snowmobiling,0.721008179104478,Mixed
+General housework,0.721008179104478,Mixed
+Cleaning gutters,1.02972154029851,Mixed
+Painting,0.927494089552239,Mixed
+"Sit, playing with animals",0.515199271641791,Mixed
+"Walk / run, playing with animals",0.823235629850746,Cardio
+Bathing dog,0.721008179104478,Mixed
+"Mowing lawn, walk, power mower",1.13262599402985,Mixed
+"Mowing lawn, riding mower",0.515199271641791,Mixed
+"Walking, snow blower",0.721008179104478,Mixed
+"Riding, snow blower",0.61742672238806,Mixed
+Shoveling snow by hand,1.23485344477612,Mixed
+Raking lawn,0.885519904477612,Mixed
+"Gardening, general",0.823235629850746,Mixed
+"Bagging grass, leaves",0.823235629850746,Mixed
+Watering lawn or garden,0.310067367164179,Mixed
+"Weeding, cultivating garden",0.927494089552239,Mixed
+"Carpentry, general",0.721008179104478,Mixed
+Carrying heavy loads,1.64782526567164,Mixed
+Carrying moderate loads upstairs,1.64782526567164,Cardio
+General cleaning,0.721008179104478,Mixed
+"Cleaning, dusting",0.515199271641791,Mixed
+Taking out trash,0.61742672238806,Mixed
+"Walking, pushing a wheelchair",0.823235629850746,Strength
+"Teach physical education,exercise class",0.823235629850746,Mixed

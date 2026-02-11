@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "user": {
+      "name": "",
+      "age": 25,
+      "gender": "Male",
+      "height_cm": 170.0,
+      "weight_kg": 70.0,
+      "goal": "Maintain Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 13:11:03.531243",
+    "calorie_target": 2258
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Cumin seeds baghar (Jeera baghar/tadka)",
+      "Calories": 736.81,
+      "Protein": 3.34,
+      "Carbs": 0.0,
+      "Fat": 78.77,
+      "Fibre": 6.01,
+      "Sugar": 0.49
+    },
+    {
+      "FoodItem": "Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada)",
+      "Calories": 745.5,
+      "Protein": 4.39,
+      "Carbs": 0.0,
+      "Fat": 76.32,
+      "Fibre": 2.27,
+      "Sugar": 0.16
+    },
+    {
+      "FoodItem": "Masala urad dal vada",
+      "Calories": 703.78,
+      "Protein": 4.32,
+      "Carbs": 0.0,
+      "Fat": 71.62,
+      "Fibre": 2.71,
+      "Sugar": 0.7
+    },
+    {
+      "FoodItem": "Gram flour and semolina chilla/cheela/savory pancake (Besan suji chilla/cheela)",
+      "Calories": 758.89,
+      "Protein": 2.08,
+      "Carbs": 0.0,
+      "Fat": 80.04,
+      "Fibre": 1.39,
+      "Sugar": 0.25
+    },
+    {
+      "FoodItem": "Chicken kebab",
+      "Calories": 729.41,
+      "Protein": 3.71,
+      "Carbs": 0.0,
+      "Fat": 78.89,
+      "Fibre": 0.21,
+      "Sugar": 0.24
+    },
+    {
+      "FoodItem": "Paneer makhana korma",
+      "Calories": 775.82,
+      "Protein": 3.24,
+      "Carbs": 0.0,
+      "Fat": 82.76,
+      "Fibre": 0.21,
+      "Sugar": 1.84
+    },
+    {
+      "FoodItem": "Paneer pakora/pakoda",
+      "Calories": 718.12,
+      "Protein": 3.27,
+      "Carbs": 0.0,
+      "Fat": 76.05,
+      "Fibre": 0.89,
+      "Sugar": 1.08
+    },
+    {
+      "FoodItem": "Soyabean tikki",
+      "Calories": 698.17,
+      "Protein": 3.53,
+      "Carbs": 0.0,
+      "Fat": 74.02,
+      "Fibre": 2.2,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Spinach peanut namak paras (Palak moongfali namak paras)",
+      "Calories": 740.16,
+      "Protein": 1.65,
+      "Carbs": 0.0,
+      "Fat": 78.51,
+      "Fibre": 0.81,
+      "Sugar": 0.28
+    },
+    {
+      "FoodItem": "Dal stuffed poori",
+      "Calories": 785.16,
+      "Protein": 2.08,
+      "Carbs": 0.0,
+      "Fat": 81.69,
+      "Fibre": 1.96,
+      "Sugar": 0.29
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Stair machine",
+      "Category": "Cardio",
+      "Cal/kg": 1.85295717014925,
+      "Est_kcal/session": 129.7070019104475,
+      "Demo Link": "https://www.youtube.com/results?search_query=Stair+machine"
+    },
+    {
+      "Activity": "Ski machine",
+      "Category": "Cardio",
+      "Cal/kg": 1.44133935522388,
+      "Est_kcal/session": 100.8937548656716,
+      "Demo Link": "https://www.youtube.com/results?search_query=Ski+machine"
+    },
+    {
+      "Activity": "Aerobics, low impact",
+      "Category": "Cardio",
+      "Cal/kg": 1.02972154029851,
+      "Est_kcal/session": 72.0805078208957,
+      "Demo Link": "https://www.youtube.com/results?search_query=Aerobics%2C+low+impact"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Category": "Strength",
+      "Cal/kg": 1.64782526567164,
+      "Est_kcal/session": 115.34776859701479,
+      "Demo Link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Category": "Strength",
+      "Cal/kg": 1.23485344477612,
+      "Est_kcal/session": 86.4397411343284,
+      "Demo Link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    }
+  ],
+  "tips": [
+    "Maintain balance of cardio and strength training."
+  ]
+}

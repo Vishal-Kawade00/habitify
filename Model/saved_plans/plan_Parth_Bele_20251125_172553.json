@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 156.0,
+      "weight_kg": 47.0,
+      "goal": "Lose Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 17:25:53.668899",
+    "calorie_target": 1363
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Amaranth ladoo (Rajgira ladoo)",
+      "Calories": 454.15,
+      "Protein": 10.12,
+      "Carbs": 51.33,
+      "Fat": 22.7,
+      "Fibre": 5.11,
+      "Sugar": 19.92
+    },
+    {
+      "FoodItem": "Gram flour ladoo (Besan ladoo)",
+      "Calories": 476.91,
+      "Protein": 8.93,
+      "Carbs": 62.61,
+      "Fat": 22.76,
+      "Fibre": 4.43,
+      "Sugar": 37.76
+    },
+    {
+      "FoodItem": "Onion tomato uttapam",
+      "Calories": 462.02,
+      "Protein": 1.91,
+      "Carbs": 11.32,
+      "Fat": 45.3,
+      "Fibre": 1.26,
+      "Sugar": 0.8
+    },
+    {
+      "FoodItem": "Potato kofta curry (Aloo kofta curry)",
+      "Calories": 455.4,
+      "Protein": 0.56,
+      "Carbs": 2.78,
+      "Fat": 49.08,
+      "Fibre": 0.56,
+      "Sugar": 0.63
+    },
+    {
+      "FoodItem": "Maa chaane ki dal",
+      "Calories": 344.67,
+      "Protein": 19.8,
+      "Carbs": 43.11,
+      "Fat": 9.5,
+      "Fibre": 13.45,
+      "Sugar": 1.05
+    },
+    {
+      "FoodItem": "Besan bathua chilla/cheela",
+      "Calories": 373.82,
+      "Protein": 11.48,
+      "Carbs": 40.65,
+      "Fat": 18.57,
+      "Fibre": 7.79,
+      "Sugar": 1.45
+    },
+    {
+      "FoodItem": "Tutti fruitti biscuit",
+      "Calories": 420.78,
+      "Protein": 5.21,
+      "Carbs": 53.12,
+      "Fat": 17.9,
+      "Fibre": 5.43,
+      "Sugar": 15.75
+    },
+    {
+      "FoodItem": "Hazelnut cookies",
+      "Calories": 493.32,
+      "Protein": 6.25,
+      "Carbs": 39.44,
+      "Fat": 34.97,
+      "Fibre": 2.45,
+      "Sugar": 22.01
+    },
+    {
+      "FoodItem": "Finger millet biscuit (Ragi biscuit)",
+      "Calories": 458.56,
+      "Protein": 4.03,
+      "Carbs": 52.69,
+      "Fat": 25.79,
+      "Fibre": 5.97,
+      "Sugar": 16.9
+    },
+    {
+      "FoodItem": "Almond biscuit (Badam ke biscuit)",
+      "Calories": 407.74,
+      "Protein": 6.25,
+      "Carbs": 52.14,
+      "Fat": 19.7,
+      "Fibre": 1.5,
+      "Sugar": 22.19
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Rock climbing, ascending rock",
+      "Calories_per_kg": 2.2652519880597,
+      "Category": "Mixed",
+      "Est_Cals_session": 106.4668434388059,
+      "demo_link": "https://www.youtube.com/results?search_query=Rock+climbing%2C+ascending+rock"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 116.13986208955234,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Canoeing, rowing, vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 116.13986208955234,
+      "demo_link": "https://www.youtube.com/results?search_query=Canoeing%2C+rowing%2C+vigorous"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 116.13986208955234,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 135.4858993910447,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 135.4858993910447,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    },
+    {
+      "Activity": "Stationary cycling, vigorous",
+      "Calories_per_kg": 2.16234753432836,
+      "Category": "Mixed",
+      "Est_Cals_session": 101.63033411343291,
+      "demo_link": "https://www.youtube.com/results?search_query=Stationary+cycling%2C+vigorous"
+    },
+    {
+      "Activity": "Running, 7 mph (8.5 min mile)",
+      "Calories_per_kg": 2.36815644179104,
+      "Category": "Cardio",
+      "Est_Cals_session": 111.30335276417888,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+7+mph+%288.5+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise."
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Female",
+      "height_cm": 152.0,
+      "weight_kg": 52.0,
+      "goal": "Gain Weight",
+      "diet_pref": "Veg",
+      "medical": "Hypertension"
+    },
+    "generated_at": "2025-11-25 18:50:40.731493",
+    "calorie_target": 1976
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Poshtik namak paras",
+      "Calories": 613.39,
+      "Protein": 6.49,
+      "Carbs": 19.52,
+      "Fat": 56.58,
+      "Fibre": 4.55,
+      "Sugar": 0.87
+    },
+    {
+      "FoodItem": "Wheat and gram flour ladoo (Atta besan ladoo)",
+      "Calories": 501.7,
+      "Protein": 9.38,
+      "Carbs": 50.5,
+      "Fat": 29.86,
+      "Fibre": 6.01,
+      "Sugar": 18.46
+    },
+    {
+      "FoodItem": "Paushtik ladoo",
+      "Calories": 485.87,
+      "Protein": 7.65,
+      "Carbs": 60.34,
+      "Fat": 24.98,
+      "Fibre": 4.57,
+      "Sugar": 38.12
+    },
+    {
+      "FoodItem": "Spring roll",
+      "Calories": 623.87,
+      "Protein": 1.81,
+      "Carbs": 8.56,
+      "Fat": 64.63,
+      "Fibre": 0.67,
+      "Sugar": 0.6
+    },
+    {
+      "FoodItem": "Paneer and pea samosa (Paneer matar ka samosa)",
+      "Calories": 623.81,
+      "Protein": 4.02,
+      "Carbs": 8.55,
+      "Fat": 63.65,
+      "Fibre": 1.02,
+      "Sugar": 1.69
+    },
+    {
+      "FoodItem": "Bathua poori",
+      "Calories": 598.79,
+      "Protein": 2.35,
+      "Carbs": 13.85,
+      "Fat": 59.14,
+      "Fibre": 1.87,
+      "Sugar": 0.41
+    },
+    {
+      "FoodItem": "Peanut cutlet (Mungfali ke cutlet)",
+      "Calories": 698.77,
+      "Protein": 2.63,
+      "Carbs": 5.68,
+      "Fat": 74.0,
+      "Fibre": 1.21,
+      "Sugar": 0.51
+    },
+    {
+      "FoodItem": "Spinach chickpeas cutlet (Palak channa dal cutlet)",
+      "Calories": 688.03,
+      "Protein": 1.44,
+      "Carbs": 4.93,
+      "Fat": 73.6,
+      "Fibre": 0.93,
+      "Sugar": 0.16
+    },
+    {
+      "FoodItem": "Dahi vadas/Dahi bhalla",
+      "Calories": 667.73,
+      "Protein": 2.96,
+      "Carbs": 5.49,
+      "Fat": 70.4,
+      "Fibre": 0.97,
+      "Sugar": 1.78
+    },
+    {
+      "FoodItem": "Jackfruit fritters (Ponsa mulik/Kathal ka pakora)",
+      "Calories": 597.79,
+      "Protein": 2.34,
+      "Carbs": 24.0,
+      "Fat": 54.41,
+      "Fibre": 1.5,
+      "Sugar": 11.48
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 64.21237912835824,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Calories_per_kg": 0.515199271641791,
+      "Category": "Strength",
+      "Est_Cals_session": 26.790362125373132,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 85.68691381492528,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 32.10618956417912,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 46.04703503283582,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase calorie intake and train progressively with strength exercises.",
+    "Diet & exercise filtered for medical condition: Hypertension. Consult a doctor for specifics."
+  ]
+}

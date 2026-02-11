@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 156.0,
+      "weight_kg": 47.0,
+      "goal": "Gain Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 17:26:25.418193",
+    "calorie_target": 2163
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Masala urad dal vada",
+      "Calories": 703.78,
+      "Protein": 4.32,
+      "Carbs": 9.93,
+      "Fat": 71.62,
+      "Fibre": 2.71,
+      "Sugar": 0.7
+    },
+    {
+      "FoodItem": "Shammi kebab",
+      "Calories": 685.69,
+      "Protein": 4.52,
+      "Carbs": 3.54,
+      "Fat": 72.61,
+      "Fibre": 1.05,
+      "Sugar": 0.31
+    },
+    {
+      "FoodItem": "Minced meat samosa (Keema ka samosa)",
+      "Calories": 620.99,
+      "Protein": 4.43,
+      "Carbs": 6.14,
+      "Fat": 64.26,
+      "Fibre": 0.39,
+      "Sugar": 0.5
+    },
+    {
+      "FoodItem": "Cauliflower pakora/pakoda (Phoolgobhi ke pakode)",
+      "Calories": 671.63,
+      "Protein": 1.98,
+      "Carbs": 4.52,
+      "Fat": 71.86,
+      "Fibre": 1.26,
+      "Sugar": 0.23
+    },
+    {
+      "FoodItem": "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)",
+      "Calories": 657.57,
+      "Protein": 4.05,
+      "Carbs": 8.68,
+      "Fat": 67.19,
+      "Fibre": 2.65,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Paushtik ladoo",
+      "Calories": 485.87,
+      "Protein": 7.65,
+      "Carbs": 60.34,
+      "Fat": 24.98,
+      "Fibre": 4.57,
+      "Sugar": 38.12
+    },
+    {
+      "FoodItem": "Semolina carrot vada (Suji gajar vada)",
+      "Calories": 699.53,
+      "Protein": 1.56,
+      "Carbs": 6.52,
+      "Fat": 74.07,
+      "Fibre": 1.07,
+      "Sugar": 1.21
+    },
+    {
+      "FoodItem": "Spinach poori (Palak poori)",
+      "Calories": 684.25,
+      "Protein": 1.42,
+      "Carbs": 7.76,
+      "Fat": 71.86,
+      "Fibre": 1.55,
+      "Sugar": 0.24
+    },
+    {
+      "FoodItem": "Khasta kachori",
+      "Calories": 712.73,
+      "Protein": 2.51,
+      "Carbs": 12.81,
+      "Fat": 72.27,
+      "Fibre": 0.97,
+      "Sugar": 0.34
+    },
+    {
+      "FoodItem": "Crispy okra/Crispy lady's fingers (Karare bhindi)",
+      "Calories": 657.76,
+      "Protein": 1.91,
+      "Carbs": 4.35,
+      "Fat": 70.4,
+      "Fibre": 1.75,
+      "Sugar": 0.26
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 58.03811190447764,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Calories_per_kg": 0.515199271641791,
+      "Category": "Strength",
+      "Est_Cals_session": 24.21436576716418,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 77.44778748656708,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 29.01905595223882,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 41.619435510447765,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Increase calorie intake and train progressively with strength exercises."
+  ]
+}

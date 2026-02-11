@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "user": {
+      "name": "parth bele",
+      "age": 18,
+      "gender": "Male",
+      "height_cm": 151.0,
+      "weight_kg": 67.0,
+      "goal": "Lose Weight",
+      "diet_pref": "NonVeg",
+      "medical": "Diabetes"
+    },
+    "generated_at": "2025-11-25 16:44:12.914901",
+    "calorie_target": 1602
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Amaranth ladoo (Rajgira ladoo)",
+      "Calories": 454.15,
+      "Protein": 10.12,
+      "Carbs": 51.33,
+      "Fat": 22.7,
+      "Fibre": 5.11,
+      "Sugar": 19.92
+    },
+    {
+      "FoodItem": "Tomato fish",
+      "Calories": 489.79,
+      "Protein": 2.39,
+      "Carbs": 3.18,
+      "Fat": 51.91,
+      "Fibre": 0.72,
+      "Sugar": 1.35
+    },
+    {
+      "FoodItem": "Poshtik cutlet",
+      "Calories": 496.45,
+      "Protein": 2.0,
+      "Carbs": 7.39,
+      "Fat": 50.94,
+      "Fibre": 1.35,
+      "Sugar": 0.32
+    },
+    {
+      "FoodItem": "Sev (Omapodi/Karapusa)",
+      "Calories": 609.14,
+      "Protein": 5.12,
+      "Carbs": 12.87,
+      "Fat": 60.08,
+      "Fibre": 2.35,
+      "Sugar": 0.53
+    },
+    {
+      "FoodItem": "Milk cookies",
+      "Calories": 459.43,
+      "Protein": 10.49,
+      "Carbs": 48.43,
+      "Fat": 24.96,
+      "Fibre": 0.99,
+      "Sugar": 22.06
+    },
+    {
+      "FoodItem": "Paneer pulao",
+      "Calories": 581.91,
+      "Protein": 1.98,
+      "Carbs": 8.76,
+      "Fat": 59.81,
+      "Fibre": 0.62,
+      "Sugar": 1.11
+    },
+    {
+      "FoodItem": "Spicy corn chaat",
+      "Calories": 479.8,
+      "Protein": 4.61,
+      "Carbs": 11.45,
+      "Fat": 46.55,
+      "Fibre": 2.17,
+      "Sugar": 0.95
+    },
+    {
+      "FoodItem": "Chinese cabbage and meat ball soup",
+      "Calories": 484.31,
+      "Protein": 5.21,
+      "Carbs": 1.43,
+      "Fat": 56.57,
+      "Fibre": 0.57,
+      "Sugar": 0.37
+    },
+    {
+      "FoodItem": "Gram flour burfi (Besan burfi)",
+      "Calories": 421.79,
+      "Protein": 11.19,
+      "Carbs": 46.59,
+      "Fat": 22.41,
+      "Fibre": 3.41,
+      "Sugar": 28.44
+    },
+    {
+      "FoodItem": "Masala onion pakora/pakoda (Pyaaz ke pakode)",
+      "Calories": 551.64,
+      "Protein": 2.05,
+      "Carbs": 6.48,
+      "Fat": 57.61,
+      "Fibre": 1.44,
+      "Sugar": 1.58
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Running, 10.9 mph (5.5 min mile)",
+      "Calories_per_kg": 3.70659134328358,
+      "Category": "Cardio",
+      "Est_Cals_session": 248.34161999999986,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+10.9+mph+%285.5+min+mile%29"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 165.56108000000015,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 165.56108000000015,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Cross country skiing, uphill",
+      "Calories_per_kg": 3.39787798208955,
+      "Category": "Cardio",
+      "Est_Cals_session": 227.65782479999984,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+uphill"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 193.13947359999992,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Speed skating, ice, competitive",
+      "Calories_per_kg": 3.08916462089552,
+      "Category": "Mixed",
+      "Est_Cals_session": 206.97402959999985,
+      "demo_link": "https://www.youtube.com/results?search_query=Speed+skating%2C+ice%2C+competitive"
+    },
+    {
+      "Activity": "Skin diving, moderate",
+      "Calories_per_kg": 2.57464235223881,
+      "Category": "Cardio",
+      "Est_Cals_session": 172.50103760000027,
+      "demo_link": "https://www.youtube.com/results?search_query=Skin+diving%2C+moderate"
+    },
+    {
+      "Activity": "Cycling, >20 mph, racing",
+      "Calories_per_kg": 3.29497352835821,
+      "Category": "Mixed",
+      "Est_Cals_session": 220.76322640000006,
+      "demo_link": "https://www.youtube.com/results?search_query=Cycling%2C+%3E20+mph%2C+racing"
+    },
+    {
+      "Activity": "Roller blading, in-line skating",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 165.56108000000015,
+      "demo_link": "https://www.youtube.com/results?search_query=Roller+blading%2C+in-line+skating"
+    },
+    {
+      "Activity": "Squash",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 165.56108000000015,
+      "demo_link": "https://www.youtube.com/results?search_query=Squash"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise.",
+    "Diet filtered for medical condition: Diabetes. Consult a doctor for specific advice."
+  ]
+}

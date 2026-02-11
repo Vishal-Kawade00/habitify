@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth bele",
+      "age": 17,
+      "gender": "Male",
+      "height_cm": 151.0,
+      "weight_kg": 47.0,
+      "goal": "Maintain Weight",
+      "diet_pref": "NonVeg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 17:04:30.687900",
+    "calorie_target": 1833
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Poshtik namak paras",
+      "Calories": 613.39,
+      "Protein": 6.49,
+      "Carbs": 19.52,
+      "Fat": 56.58,
+      "Fibre": 4.55,
+      "Sugar": 0.87
+    },
+    {
+      "FoodItem": "Sunflower cookies",
+      "Calories": 520.62,
+      "Protein": 9.49,
+      "Carbs": 40.06,
+      "Fat": 36.28,
+      "Fibre": 3.95,
+      "Sugar": 24.28
+    },
+    {
+      "FoodItem": "Shammi kebab",
+      "Calories": 685.69,
+      "Protein": 4.52,
+      "Carbs": 3.54,
+      "Fat": 72.61,
+      "Fibre": 1.05,
+      "Sugar": 0.31
+    },
+    {
+      "FoodItem": "Gram flour burfi (Besan burfi)",
+      "Calories": 421.79,
+      "Protein": 11.19,
+      "Carbs": 46.59,
+      "Fat": 22.41,
+      "Fibre": 3.41,
+      "Sugar": 28.44
+    },
+    {
+      "FoodItem": "Peas kachori (Matar kachori)",
+      "Calories": 584.68,
+      "Protein": 3.21,
+      "Carbs": 13.25,
+      "Fat": 57.51,
+      "Fibre": 2.03,
+      "Sugar": 0.5
+    },
+    {
+      "FoodItem": "Cauliflower pakora/pakoda (Phoolgobhi ke pakode)",
+      "Calories": 671.63,
+      "Protein": 1.98,
+      "Carbs": 4.52,
+      "Fat": 71.86,
+      "Fibre": 1.26,
+      "Sugar": 0.23
+    },
+    {
+      "FoodItem": "Lotus stem kofta curry (Kamal kakdi kofta curry)",
+      "Calories": 633.56,
+      "Protein": 0.96,
+      "Carbs": 5.01,
+      "Fat": 67.76,
+      "Fibre": 1.01,
+      "Sugar": 0.88
+    },
+    {
+      "FoodItem": "Mal pua",
+      "Calories": 566.68,
+      "Protein": 1.71,
+      "Carbs": 17.56,
+      "Fat": 54.64,
+      "Fibre": 0.62,
+      "Sugar": 11.77
+    },
+    {
+      "FoodItem": "Bathua poori",
+      "Calories": 598.79,
+      "Protein": 2.35,
+      "Carbs": 13.85,
+      "Fat": 59.14,
+      "Fibre": 1.87,
+      "Sugar": 0.41
+    },
+    {
+      "FoodItem": "Besan bathua chilla/cheela",
+      "Calories": 373.82,
+      "Protein": 11.48,
+      "Carbs": 40.65,
+      "Fat": 18.57,
+      "Fibre": 7.79,
+      "Sugar": 1.45
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Ski machine",
+      "Calories_per_kg": 1.44133935522388,
+      "Category": "Cardio",
+      "Est_Cals_session": 67.74294969552236,
+      "demo_link": "https://www.youtube.com/results?search_query=Ski+machine"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 77.44778748656708,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Stair machine",
+      "Calories_per_kg": 1.85295717014925,
+      "Category": "Cardio",
+      "Est_Cals_session": 87.08898699701474,
+      "demo_link": "https://www.youtube.com/results?search_query=Stair+machine"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 29.01905595223882,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Aerobics, low impact",
+      "Calories_per_kg": 1.02972154029851,
+      "Category": "Cardio",
+      "Est_Cals_session": 48.396912394029975,
+      "demo_link": "https://www.youtube.com/results?search_query=Aerobics%2C+low+impact"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 41.619435510447765,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Aerobics, step aerobics",
+      "Calories_per_kg": 1.75072971940299,
+      "Category": "Cardio",
+      "Est_Cals_session": 82.28429681194054,
+      "demo_link": "https://www.youtube.com/results?search_query=Aerobics%2C+step+aerobics"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Maintain balance of cardio and strength training for overall fitness."
+  ]
+}

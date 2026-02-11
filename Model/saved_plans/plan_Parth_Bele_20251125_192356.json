@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 19,
+      "gender": "Female",
+      "height_cm": 152.0,
+      "weight_kg": 52.0,
+      "goal": "Gain Weight",
+      "diet_pref": "Veg",
+      "medical": "PCOS"
+    },
+    "generated_at": "2025-11-25 19:23:56.364223",
+    "calorie_target": 1969
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Spring roll",
+      "Calories": 623.87,
+      "Protein": 1.81,
+      "Carbs": 8.56,
+      "Fat": 64.63,
+      "Fibre": 0.67,
+      "Sugar": 0.6,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Bread pakora/pakoda",
+      "Calories": 710.99,
+      "Protein": 2.57,
+      "Carbs": 8.87,
+      "Fat": 74.2,
+      "Fibre": 1.11,
+      "Sugar": 0.46,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Paneer cutlet",
+      "Calories": 672.2,
+      "Protein": 4.59,
+      "Carbs": 7.62,
+      "Fat": 69.38,
+      "Fibre": 0.39,
+      "Sugar": 2.52,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Banana chips (Kele ke chips)",
+      "Calories": 665.67,
+      "Protein": 0.37,
+      "Carbs": 7.32,
+      "Fat": 70.46,
+      "Fibre": 0.65,
+      "Sugar": 4.37,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Onion pakora/pakoda (Pyaaz ke pakode)",
+      "Calories": 674.61,
+      "Protein": 1.9,
+      "Carbs": 5.41,
+      "Fat": 71.84,
+      "Fibre": 1.11,
+      "Sugar": 0.88,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Oats burfi",
+      "Calories": 425.19,
+      "Protein": 8.89,
+      "Carbs": 62.47,
+      "Fat": 17.27,
+      "Fibre": 4.96,
+      "Sugar": 32.93,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Spinach paneer kofta curry (Palak paneer kofta curry)",
+      "Calories": 606.03,
+      "Protein": 1.43,
+      "Carbs": 2.94,
+      "Fat": 65.41,
+      "Fibre": 0.75,
+      "Sugar": 1.16,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Masala urad dal vada",
+      "Calories": 703.78,
+      "Protein": 4.32,
+      "Carbs": 9.93,
+      "Fat": 71.62,
+      "Fibre": 2.71,
+      "Sugar": 0.7,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Peas poori (Matar ki poori)",
+      "Calories": 592.83,
+      "Protein": 3.04,
+      "Carbs": 14.92,
+      "Fat": 57.69,
+      "Fibre": 2.25,
+      "Sugar": 0.48,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Chilli paneer",
+      "Calories": 777.51,
+      "Protein": 2.1,
+      "Carbs": 3.31,
+      "Fat": 84.01,
+      "Fibre": 0.5,
+      "Sugar": 1.5,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Masala green chilli pakora/pakoda (Hari mirch kay pakode)",
+      "Calories": 668.76,
+      "Protein": 2.22,
+      "Carbs": 5.55,
+      "Fat": 71.01,
+      "Fibre": 1.34,
+      "Sugar": 0.27,
+      "SafetyFlag": "OK"
+    },
+    {
+      "FoodItem": "Dum aloo",
+      "Calories": 682.33,
+      "Protein": 0.7,
+      "Carbs": 3.33,
+      "Fat": 74.01,
+      "Fibre": 0.68,
+      "Sugar": 0.71,
+      "SafetyFlag": "OK"
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 64.21237912835824,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Calories_per_kg": 0.515199271641791,
+      "Category": "Strength",
+      "Est_Cals_session": 26.790362125373132,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 85.68691381492528,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 32.10618956417912,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 46.04703503283582,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Increase calorie intake and train progressively with strength exercises.",
+    "Plan filtered for medical condition: PCOS. Consult your doctor for final approval."
+  ],
+  "safety": {
+    "food_removed": [],
+    "food_limited": [],
+    "ex_removed": [],
+    "ex_limited": [],
+    "ex_recommended": [
+      "Weight lifting, body building, vigorous",
+      "Pushing stroller or walking with children",
+      "Calisthenics, vigorous, pushups, situps\u2026",
+      "Walking, pushing a wheelchair",
+      "Weight lifting, light workout"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth patil",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 167.0,
+      "weight_kg": 48.0,
+      "goal": "Lose Weight",
+      "diet_pref": "NonVeg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 14:40:38.560848",
+    "calorie_target": 1220
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Sesame ladoo (Til ke ladoo)",
+      "Calories": 396.96,
+      "Protein": 10.7,
+      "Carbs": 43.5,
+      "Fat": 19.64,
+      "Fibre": 7.72,
+      "Sugar": 38.63
+    },
+    {
+      "FoodItem": "Khoa coconut burfi",
+      "Calories": 411.45,
+      "Protein": 9.98,
+      "Carbs": 36.55,
+      "Fat": 26.01,
+      "Fibre": 4.07,
+      "Sugar": 35.6
+    },
+    {
+      "FoodItem": "Kashmiri masala",
+      "Calories": 389.02,
+      "Protein": 8.26,
+      "Carbs": 23.16,
+      "Fat": 31.03,
+      "Fibre": 12.12,
+      "Sugar": 2.41
+    },
+    {
+      "FoodItem": "Khoa ladoo",
+      "Calories": 396.02,
+      "Protein": 12.21,
+      "Carbs": 34.43,
+      "Fat": 24.09,
+      "Fibre": 3.08,
+      "Sugar": 33.37
+    },
+    {
+      "FoodItem": "Wheat flour and nuts ladoos (Atta nuts ladoos)",
+      "Calories": 391.9,
+      "Protein": 9.46,
+      "Carbs": 44.31,
+      "Fat": 19.19,
+      "Fibre": 7.3,
+      "Sugar": 15.94
+    },
+    {
+      "FoodItem": "Plain burfi (Burfi)",
+      "Calories": 408.32,
+      "Protein": 9.82,
+      "Carbs": 30.88,
+      "Fat": 27.96,
+      "Fibre": 0.17,
+      "Sugar": 30.43
+    },
+    {
+      "FoodItem": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+      "Calories": 362.16,
+      "Protein": 15.89,
+      "Carbs": 64.75,
+      "Fat": 5.11,
+      "Fibre": 11.66,
+      "Sugar": 0.63
+    },
+    {
+      "FoodItem": "Gram flour burfi (Besan burfi)",
+      "Calories": 421.79,
+      "Protein": 11.19,
+      "Carbs": 46.59,
+      "Fat": 22.41,
+      "Fibre": 3.41,
+      "Sugar": 28.44
+    },
+    {
+      "FoodItem": "Peanut biscuit",
+      "Calories": 401.05,
+      "Protein": 8.45,
+      "Carbs": 46.72,
+      "Fat": 20.41,
+      "Fibre": 2.48,
+      "Sugar": 21.26
+    },
+    {
+      "FoodItem": "Maa chaane ki dal",
+      "Calories": 344.67,
+      "Protein": 19.8,
+      "Carbs": 43.11,
+      "Fat": 9.5,
+      "Fibre": 13.45,
+      "Sugar": 1.05
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Running, 10.9 mph (5.5 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.70659134328358,
+      "Est_kcal/session": 177.91638447761184,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+10.9+mph+%285.5+min+mile%29"
+    },
+    {
+      "Activity": "Cross country skiing, uphill",
+      "Category": "Cardio",
+      "Cal/kg": 3.39787798208955,
+      "Est_kcal/session": 163.0981431402984,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+uphill"
+    },
+    {
+      "Activity": "Running, 10 mph (6 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 158.15872936119408,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+10+mph+%286+min+mile%29"
+    },
+    {
+      "Activity": "Cycling, >20 mph, racing",
+      "Category": "Mixed",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 158.15872936119408,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cycling%2C+%3E20+mph%2C+racing"
+    },
+    {
+      "Activity": "Skin diving, fast",
+      "Category": "Cardio",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 158.15872936119408,
+      "Demo Link": "https://www.youtube.com/results?search_query=Skin+diving%2C+fast"
+    },
+    {
+      "Activity": "Speed skating, ice, competitive",
+      "Category": "Mixed",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 148.27990180298497,
+      "Demo Link": "https://www.youtube.com/results?search_query=Speed+skating%2C+ice%2C+competitive"
+    },
+    {
+      "Activity": "Running, 9 mph (6.5 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 148.27990180298497,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+9+mph+%286.5+min+mile%29"
+    },
+    {
+      "Activity": "Running, stairs, up",
+      "Category": "Cardio",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 148.27990180298497,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+stairs%2C+up"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Category": "Cardio",
+      "Cal/kg": 2.88267871044776,
+      "Est_kcal/session": 138.3685781014925,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 2.88267871044776,
+      "Est_kcal/session": 138.3685781014925,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise."
+  ]
+}

@@ -1,0 +1,13 @@
+Condition,Avoid,Recommend
+Diabetes,"High Sugar, White Rice, Sweetened Drinks","Oats, Brown Rice, Leafy Greens, High Fiber"
+Hypertension,"High Sodium, Pickles, Fried Foods","Fruits, Leafy Vegetables, Whole Grains"
+Obesity,"Fried, Processed, High Sugar","Lean Protein, Whole Grains, Low GI Foods"
+PCOS,"Processed Carbs, Sugary Foods","Omega-3 Foods, Vegetables, Lentils"
+High Cholesterol,"Fried Foods, Butter, Red Meat","Oats, Nuts, Fiber-Rich Foods"
+Thyroid,"Goitrogenic Foods (Cabbage, Soy)","Selenium-rich Foods, Eggs, Fish"
+Anemia,"Low Iron Foods, Tea, Coffee","Iron-rich Foods, Vitamin C Fruits"
+Kidney Disease,"High Protein, Sodium, Processed Foods","Low Sodium, Fresh Vegetables, Fruits"
+Heart Disease,"Fried Foods, Red Meat, Trans Fat","Whole Grains, Olive Oil, Fruits"
+Gastric Issues,"Spicy Foods, Caffeine, Soda","Bland Diet, Bananas, Oats"
+Constipation,"Processed Foods, Dairy","High Fiber Foods, Water, Vegetables"
+Vitamin D Deficiency,,"Fish, Egg Yolks, Fortified Milk"

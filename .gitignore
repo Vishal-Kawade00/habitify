@@ -1,0 +1,12 @@
+node_modules
+.env
+venv/
+.venv/
+env/
+__pycache__/
+.pyc
+dist/
+build/
+client/temp.txt
+server/config/default.json
+Thumbs.db

@@ -1,0 +1,179 @@
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+import pandas as pd
+import numpy as np
+from pathlib import Path
+import uvicorn
+
+# Initialize App
+app = FastAPI(title="Diet & Workout AI API")
+
+# -------------------------
+# CORS (CRITICAL FOR REACT)
+# -------------------------
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins (like localhost:5173)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# -------------------------
+# CONFIG & DATA LOADING
+# -------------------------
+# Path Configuration (Matches your logs)
+# Updated path relative to your new project directory
+DATA_DIR = Path(r"C:\Users\Admin\OneDrive\Desktop\COLLEGE_WORK\Semester-project-5\Model\DS\New folder\updtaed_new\model_ready")
+
+try:
+    # 1. Load REAL food data (Unscaled) from parent folder
+    food_path = DATA_DIR.parent / "food_master.csv"
+    if food_path.exists():
+        food_df = pd.read_csv(food_path)
+        print(f"✅ Food Data Loaded: {len(food_df)} items")
+    else:
+        # Fallback
+        food_df = pd.read_csv(DATA_DIR / "food_features.csv")
+        print("⚠️ Loaded Scaled Food Data (Fallback)")
+
+    # 2. Load other datasets
+    exercise_df = pd.read_csv(DATA_DIR / "exercise_features.csv")
+    medical_df = pd.read_csv(DATA_DIR / "medical_guidelines_features.csv")
+    print("✅ Exercise & Medical Data Loaded")
+
+except Exception as e:
+    print(f"❌ Critical Error Loading Data: {e}")
+    # Initialize empty DFs to prevent crash
+    food_df, exercise_df, medical_df = pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
+
+# -------------------------
+# INPUT SCHEMA
+# -------------------------
+class UserInput(BaseModel):
+    age: int
+    gender: str
+    height: float
+    weight: float
+    activity_level: int
+    goal: str
+    diet_pref: str
+    condition: str = "None"
+
+# -------------------------
+# LOGIC FUNCTIONS
+# -------------------------
+def calculate_tdee(age, gender, height, weight, activity_level):
+    if str(gender).lower().startswith('m'):
+        bmr = 10 * weight + 6.25 * height - 5 * age + 5
+    else:
+        bmr = 10 * weight + 6.25 * height - 5 * age - 161
+
+    # Activity Factor
+    factors = {0: 1.2, 3: 1.375, 4: 1.55, 5: 1.725, 7: 1.9}
+    # Default to 1.375 if unknown
+    factor = factors.get(activity_level, 1.375)
+    return bmr * factor
+
+def get_diet_recommendations(goal, diet_pref, calorie_target, condition):
+    df = food_df.copy()
+    if df.empty: return []
+
+    # Goal adjustment
+    if goal.lower() == "lose weight": target = calorie_target * 0.85
+    elif goal.lower() == "gain weight": target = calorie_target * 1.15
+    else: target = calorie_target
+
+    meal_target = target / 3.0
+    lower, upper = meal_target * 0.6, meal_target * 1.4
+    
+    # Filter by Calorie Range
+    df = df[(df['Calories'] >= lower) & (df['Calories'] <= upper)]
+
+    # Filter by Diet Preference
+    if diet_pref.lower() == 'veg':
+        df = df[~df['FoodItem'].str.contains('chicken|meat|fish|egg|mutton|prawn|crab', case=False, na=False)]
+
+    # Filter by Medical Condition
+    if condition and condition != "None" and not medical_df.empty:
+        med_row = medical_df[medical_df['Condition'].str.lower() == condition.lower()]
+        if not med_row.empty:
+            avoid_txt = str(med_row.iloc[0]['Avoid'])
+            if avoid_txt and avoid_txt.lower() != 'nan':
+                avoids = [x.strip() for x in avoid_txt.split(',')]
+                for a in avoids:
+                    if a: df = df[~df['FoodItem'].str.contains(a, case=False, na=False)]
+
+    # Scoring
+    cols = ["Protein", "Fibre", "Sugar", "Fat"]
+    for c in cols: df[c] = pd.to_numeric(df[c], errors='coerce').fillna(0)
+
+    df["NutrientScore"] = (0.4 * df["Protein"] + 0.2 * df["Fibre"] - 0.1 * df["Sugar"] - 0.1 * df["Fat"])
+    
+    # Return top items (Clean NaN values for JSON)
+    top_items = df.sort_values(by="NutrientScore", ascending=False).head(18)
+    
+    # FIX: Convert NaN to None for JSON compatibility
+    return top_items.replace({np.nan: None}).to_dict(orient="records")
+
+def get_exercise_recommendations(goal):
+    ex = exercise_df.copy()
+    if ex.empty: return []
+
+    if goal.lower() == "lose weight": ex = ex[ex['Category'] == 0]
+    elif goal.lower() == "gain weight": ex = ex[ex['Category'] == 1]
+    else: ex = ex[ex['Category'].isin([0, 1])]
+
+    top_ex = ex.sort_values(by='Calories_per_kg', ascending=False).head(7)
+    
+    # Add YouTube Links
+    top_ex['YouTubeDemo'] = top_ex['Activity'].apply(
+        lambda x: f"https://www.youtube.com/results?search_query={str(x).replace(' ','+')}"
+    )
+    
+    # FIX: Convert NaN to None for JSON compatibility
+    return top_ex.replace({np.nan: None}).to_dict(orient="records")
+
+# -------------------------
+# API ENDPOINT
+# -------------------------
+@app.post("/recommend")
+async def generate_recommendations(user: UserInput):
+    try:
+        print(user)
+        # 1. Calculate TDEE
+        tdee = calculate_tdee(user.age, user.gender, user.height, user.weight, user.activity_level)
+        
+        # 2. Get Diet
+        diet_plan = get_diet_recommendations(user.goal, user.diet_pref, tdee, user.condition)
+        
+        # 3. Get Workout
+        workout_plan = get_exercise_recommendations(user.goal)
+        print(workout_plan)
+        print(diet_plan)
+        
+        return {
+            "status": "success",
+            "meta": {
+                "tdee": round(tdee, 2),
+                "goal_calories": round(tdee * (0.85 if user.goal == "Lose Weight" else 1.15 if user.goal == "Gain Weight" else 1), 2)
+            },
+            "diet": diet_plan,
+            "exercises": workout_plan
+        }
+
+    except Exception as e:
+        # Print error to console for debugging
+        print(f"Server Error: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+if __name__ == "__main__":
+    # Ensure this port matches what React is calling (8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+
+
+    integrate the chatbot
+    add the login signin page

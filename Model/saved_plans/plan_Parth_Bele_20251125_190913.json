@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Female",
+      "height_cm": 153.0,
+      "weight_kg": 52.0,
+      "goal": "Gain Weight",
+      "diet_pref": "NonVeg",
+      "medical": "Anemia"
+    },
+    "generated_at": "2025-11-25 19:09:13.411957",
+    "calorie_target": 1984
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Peanut burfi (Moongfali ki burfi)",
+      "Calories": 550.99,
+      "Protein": 9.31,
+      "Carbs": 48.14,
+      "Fat": 36.84,
+      "Fibre": 4.09,
+      "Sugar": 43.08,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Mutton chops",
+      "Calories": 663.64,
+      "Protein": 4.03,
+      "Carbs": 1.48,
+      "Fat": 71.31,
+      "Fibre": 0.17,
+      "Sugar": 0.42,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Boondi raita",
+      "Calories": 687.72,
+      "Protein": 2.19,
+      "Carbs": 3.96,
+      "Fat": 73.83,
+      "Fibre": 0.46,
+      "Sugar": 1.88,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Peas kachori (Matar kachori)",
+      "Calories": 584.68,
+      "Protein": 3.21,
+      "Carbs": 13.25,
+      "Fat": 57.51,
+      "Fibre": 2.03,
+      "Sugar": 0.5,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Dahi vadas/Dahi bhalla",
+      "Calories": 667.73,
+      "Protein": 2.96,
+      "Carbs": 5.49,
+      "Fat": 70.4,
+      "Fibre": 0.97,
+      "Sugar": 1.78,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Vegetarian egg kofta curry",
+      "Calories": 627.41,
+      "Protein": 1.33,
+      "Carbs": 4.26,
+      "Fat": 67.24,
+      "Fibre": 0.64,
+      "Sugar": 1.19,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Paushtik ladoo",
+      "Calories": 485.87,
+      "Protein": 7.65,
+      "Carbs": 60.34,
+      "Fat": 24.98,
+      "Fibre": 4.57,
+      "Sugar": 38.12,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet)",
+      "Calories": 701.71,
+      "Protein": 1.76,
+      "Carbs": 7.39,
+      "Fat": 73.89,
+      "Fibre": 0.86,
+      "Sugar": 0.27,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Gunjia",
+      "Calories": 667.34,
+      "Protein": 2.98,
+      "Carbs": 5.68,
+      "Fat": 70.28,
+      "Fibre": 1.13,
+      "Sugar": 2.05,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Sesame biscuit (Til ke biscuit)",
+      "Calories": 424.03,
+      "Protein": 8.27,
+      "Carbs": 53.65,
+      "Fat": 19.34,
+      "Fibre": 6.83,
+      "Sugar": 29.73,
+      "Limited_for_medical": false
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 64.21237912835824,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Calories_per_kg": 0.515199271641791,
+      "Category": "Strength",
+      "Est_Cals_session": 26.790362125373132,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 85.68691381492528,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 32.10618956417912,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 46.04703503283582,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 42.80825275223879,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Increase calorie intake and train progressively with strength exercises.",
+    "Diet & exercise recommendations are filtered for medical condition: **Anemia**. Always consult your physician for personalized guidance."
+  ]
+}

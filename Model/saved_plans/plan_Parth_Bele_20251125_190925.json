@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Female",
+      "height_cm": 153.0,
+      "weight_kg": 52.0,
+      "goal": "Lose Weight",
+      "diet_pref": "NonVeg",
+      "medical": "Anemia"
+    },
+    "generated_at": "2025-11-25 19:09:25.771292",
+    "calorie_target": 1200
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Gram flour burfi (Besan burfi)",
+      "Calories": 421.79,
+      "Protein": 11.19,
+      "Carbs": 46.59,
+      "Fat": 22.41,
+      "Fibre": 3.41,
+      "Sugar": 28.44,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Soya chikki",
+      "Calories": 423.7,
+      "Protein": 7.18,
+      "Carbs": 62.89,
+      "Fat": 15.51,
+      "Fibre": 3.55,
+      "Sugar": 45.47,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Pearl millet infant food (Bajra shishu aahaar)",
+      "Calories": 362.44,
+      "Protein": 11.98,
+      "Carbs": 62.1,
+      "Fat": 6.62,
+      "Fibre": 7.84,
+      "Sugar": 26.06,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Creamed spinach and mushroom",
+      "Calories": 419.62,
+      "Protein": 2.28,
+      "Carbs": 3.17,
+      "Fat": 44.14,
+      "Fibre": 1.02,
+      "Sugar": 1.17,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Short crust pastry",
+      "Calories": 422.1,
+      "Protein": 6.11,
+      "Carbs": 44.72,
+      "Fat": 23.98,
+      "Fibre": 1.58,
+      "Sugar": 3.18,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Walnut chutney (Akhrot ki chutney)",
+      "Calories": 370.43,
+      "Protein": 9.44,
+      "Carbs": 8.91,
+      "Fat": 33.46,
+      "Fibre": 3.04,
+      "Sugar": 4.4,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Coconut burfi (Nariyal ki burfi)",
+      "Calories": 467.64,
+      "Protein": 8.81,
+      "Carbs": 32.15,
+      "Fat": 34.63,
+      "Fibre": 3.5,
+      "Sugar": 31.5,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Raspberry shortbread cookies",
+      "Calories": 441.12,
+      "Protein": 3.0,
+      "Carbs": 61.25,
+      "Fat": 21.25,
+      "Fibre": 0.75,
+      "Sugar": 40.86,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Coconut biscuit (Nariyal ke biscuit)",
+      "Calories": 434.98,
+      "Protein": 5.78,
+      "Carbs": 42.9,
+      "Fat": 27.16,
+      "Fibre": 3.64,
+      "Sugar": 20.76,
+      "Limited_for_medical": false
+    },
+    {
+      "FoodItem": "Banana cake (Kele ka cake)",
+      "Calories": 389.51,
+      "Protein": 5.77,
+      "Carbs": 40.0,
+      "Fat": 23.31,
+      "Fibre": 1.14,
+      "Sugar": 23.04,
+      "Limited_for_medical": false
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Rock climbing, ascending rock",
+      "Calories_per_kg": 2.2652519880597,
+      "Category": "Mixed",
+      "Est_Cals_session": 117.7931033791044,
+      "demo_link": "https://www.youtube.com/results?search_query=Rock+climbing%2C+ascending+rock"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Canoeing, rowing, vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Canoeing%2C+rowing%2C+vigorous"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 149.8992929432835,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 149.8992929432835,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    },
+    {
+      "Activity": "Stationary cycling, vigorous",
+      "Calories_per_kg": 2.16234753432836,
+      "Category": "Mixed",
+      "Est_Cals_session": 112.44207178507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Stationary+cycling%2C+vigorous"
+    },
+    {
+      "Activity": "Running, 7 mph (8.5 min mile)",
+      "Calories_per_kg": 2.36815644179104,
+      "Category": "Cardio",
+      "Est_Cals_session": 123.14413497313409,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+7+mph+%288.5+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise.",
+    "Diet & exercise recommendations are filtered for medical condition: **Anemia**. Always consult your physician for personalized guidance."
+  ]
+}

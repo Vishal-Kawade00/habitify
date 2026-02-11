@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Male",
+      "height_cm": 141.0,
+      "weight_kg": 48.0,
+      "goal": "Gain Weight",
+      "diet_pref": "Veg",
+      "medical": "Diabetes"
+    },
+    "generated_at": "2025-11-25 13:47:41.895164",
+    "calorie_target": 2054
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Shammi kebab",
+      "Calories": 685.69,
+      "Protein": 4.52,
+      "Carbs": 3.54,
+      "Fat": 72.61,
+      "Fibre": 1.05,
+      "Sugar": 0.31
+    },
+    {
+      "FoodItem": "Masala urad dal vada",
+      "Calories": 703.78,
+      "Protein": 4.32,
+      "Carbs": 9.93,
+      "Fat": 71.62,
+      "Fibre": 2.71,
+      "Sugar": 0.7
+    },
+    {
+      "FoodItem": "Paneer cutlet",
+      "Calories": 672.2,
+      "Protein": 4.59,
+      "Carbs": 7.62,
+      "Fat": 69.38,
+      "Fibre": 0.39,
+      "Sugar": 2.52
+    },
+    {
+      "FoodItem": "Scotch egg",
+      "Calories": 676.89,
+      "Protein": 4.05,
+      "Carbs": 1.91,
+      "Fat": 72.62,
+      "Fibre": 0.36,
+      "Sugar": 0.3
+    },
+    {
+      "FoodItem": "Soyabean tikki",
+      "Calories": 698.17,
+      "Protein": 3.53,
+      "Carbs": 4.39,
+      "Fat": 74.02,
+      "Fibre": 2.2,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)",
+      "Calories": 657.57,
+      "Protein": 4.05,
+      "Carbs": 8.68,
+      "Fat": 67.19,
+      "Fibre": 2.65,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Gram flour poori (Besan poori)",
+      "Calories": 697.66,
+      "Protein": 2.59,
+      "Carbs": 10.93,
+      "Fat": 71.51,
+      "Fibre": 1.94,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Fried fish (Indian style) (Tali hui machli)",
+      "Calories": 658.54,
+      "Protein": 4.35,
+      "Carbs": 5.4,
+      "Fat": 68.88,
+      "Fibre": 0.61,
+      "Sugar": 0.4
+    },
+    {
+      "FoodItem": "Boondi raita",
+      "Calories": 687.72,
+      "Protein": 2.19,
+      "Carbs": 3.96,
+      "Fat": 73.83,
+      "Fibre": 0.46,
+      "Sugar": 1.88
+    },
+    {
+      "FoodItem": "Vegeterian scotch egg",
+      "Calories": 681.67,
+      "Protein": 2.16,
+      "Carbs": 4.64,
+      "Fat": 72.77,
+      "Fibre": 0.58,
+      "Sugar": 0.23
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Category": "Strength",
+      "Cal/kg": 1.64782526567164,
+      "Est_kcal/session": 79.09561275223871,
+      "Demo Link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Category": "Strength",
+      "Cal/kg": 1.23485344477612,
+      "Est_kcal/session": 59.27296534925375,
+      "Demo Link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Category": "Strength",
+      "Cal/kg": 0.61742672238806,
+      "Est_kcal/session": 29.636482674626876,
+      "Demo Link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Curling",
+      "Category": "Strength",
+      "Cal/kg": 0.823235629850746,
+      "Est_kcal/session": 39.51531023283581,
+      "Demo Link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Category": "Strength",
+      "Cal/kg": 0.885519904477612,
+      "Est_kcal/session": 42.50495541492538,
+      "Demo Link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Category": "Strength",
+      "Cal/kg": 0.515199271641791,
+      "Est_kcal/session": 24.72956503880597,
+      "Demo Link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Category": "Strength",
+      "Cal/kg": 0.823235629850746,
+      "Est_kcal/session": 39.51531023283581,
+      "Demo Link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Category": "Strength",
+      "Cal/kg": 0.823235629850746,
+      "Est_kcal/session": 39.51531023283581,
+      "Demo Link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Increase calorie intake and train progressively with strength exercises.",
+    "Diet filtered for medical condition: Diabetes. Consult a doctor for specific advice."
+  ]
+}

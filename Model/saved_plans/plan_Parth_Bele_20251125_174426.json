@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 18,
+      "gender": "Male",
+      "height_cm": 156.0,
+      "weight_kg": 52.0,
+      "goal": "Lose Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 17:44:26.908946",
+    "calorie_target": 1200
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Gram flour burfi (Besan burfi)",
+      "Calories": 421.79,
+      "Protein": 11.19,
+      "Carbs": 46.59,
+      "Fat": 22.41,
+      "Fibre": 3.41,
+      "Sugar": 28.44
+    },
+    {
+      "FoodItem": "Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo )",
+      "Calories": 428.71,
+      "Protein": 6.71,
+      "Carbs": 52.86,
+      "Fat": 21.86,
+      "Fibre": 4.68,
+      "Sugar": 33.28
+    },
+    {
+      "FoodItem": "Plain dosa",
+      "Calories": 380.91,
+      "Protein": 10.34,
+      "Carbs": 64.08,
+      "Fat": 8.43,
+      "Fibre": 5.23,
+      "Sugar": 0.7
+    },
+    {
+      "FoodItem": "Olive biscuit",
+      "Calories": 438.29,
+      "Protein": 3.2,
+      "Carbs": 55.01,
+      "Fat": 23.75,
+      "Fibre": 0.82,
+      "Sugar": 32.27
+    },
+    {
+      "FoodItem": "Plain burfi (Burfi)",
+      "Calories": 408.32,
+      "Protein": 9.82,
+      "Carbs": 30.88,
+      "Fat": 27.96,
+      "Fibre": 0.17,
+      "Sugar": 30.43
+    },
+    {
+      "FoodItem": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney)",
+      "Calories": 346.36,
+      "Protein": 12.88,
+      "Carbs": 36.72,
+      "Fat": 15.88,
+      "Fibre": 13.16,
+      "Sugar": 10.41
+    },
+    {
+      "FoodItem": "Rice dal porridge (Chawal dal ki khichdi/khichri)",
+      "Calories": 383.33,
+      "Protein": 10.8,
+      "Carbs": 65.04,
+      "Fat": 8.33,
+      "Fibre": 4.51,
+      "Sugar": 26.54
+    },
+    {
+      "FoodItem": "Christmas bell biscuit",
+      "Calories": 404.85,
+      "Protein": 5.66,
+      "Carbs": 60.79,
+      "Fat": 15.84,
+      "Fibre": 2.33,
+      "Sugar": 25.94
+    },
+    {
+      "FoodItem": "Chocolate walnut cookies (Chocolate aur akhrot ke cookies)",
+      "Calories": 424.8,
+      "Protein": 6.56,
+      "Carbs": 47.1,
+      "Fat": 23.62,
+      "Fibre": 1.54,
+      "Sugar": 22.58
+    },
+    {
+      "FoodItem": "Cardamom cookies (Elaichi cookies)",
+      "Calories": 400.49,
+      "Protein": 5.1,
+      "Carbs": 53.99,
+      "Fat": 19.12,
+      "Fibre": 2.79,
+      "Sugar": 38.99
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Rock climbing, ascending rock",
+      "Calories_per_kg": 2.2652519880597,
+      "Category": "Mixed",
+      "Est_Cals_session": 117.7931033791044,
+      "demo_link": "https://www.youtube.com/results?search_query=Rock+climbing%2C+ascending+rock"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Canoeing, rowing, vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Canoeing%2C+rowing%2C+vigorous"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 128.4951665671643,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 149.8992929432835,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 149.8992929432835,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    },
+    {
+      "Activity": "Stationary cycling, vigorous",
+      "Calories_per_kg": 2.16234753432836,
+      "Category": "Mixed",
+      "Est_Cals_session": 112.44207178507472,
+      "demo_link": "https://www.youtube.com/results?search_query=Stationary+cycling%2C+vigorous"
+    },
+    {
+      "Activity": "Running, 7 mph (8.5 min mile)",
+      "Calories_per_kg": 2.36815644179104,
+      "Category": "Cardio",
+      "Est_Cals_session": 123.14413497313409,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+7+mph+%288.5+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Aim for 300-500 kcal/day deficit along with regular exercise."
+  ]
+}

@@ -1,0 +1,27 @@
+/*
+  Import Tailwind's base styles, component styles, and utility styles.
+  This is the foundation of Tailwind CSS in your project.
+*/
+@import "tailwindcss";
+
+/*
+  Global base styles for your app.
+  We're setting a smooth font-antialiasing for better text rendering
+  and a default background/text color for the light mode.
+*/
+body {
+  @apply bg-gray-50 text-gray-900;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+  Global styles for when 'dark' mode is active.
+  The 'dark' class will be applied to the <html> element.
+*/
+.dark body {
+  @apply bg-gray-900 text-gray-100;
+}

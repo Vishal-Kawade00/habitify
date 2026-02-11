@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "user": {
+      "name": "",
+      "age": 25,
+      "gender": "Male",
+      "height_cm": 170.0,
+      "weight_kg": 70.0,
+      "goal": "Lose Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 15:38:53.613129",
+    "calorie_target": 1758
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Bathua poori",
+      "Calories": 598.79,
+      "Protein": 2.35,
+      "Carbs": 13.85,
+      "Fat": 59.14,
+      "Fibre": 1.87,
+      "Sugar": 0.41
+    },
+    {
+      "FoodItem": "Hazelnut cookies",
+      "Calories": 493.32,
+      "Protein": 6.25,
+      "Carbs": 39.44,
+      "Fat": 34.97,
+      "Fibre": 2.45,
+      "Sugar": 22.01
+    },
+    {
+      "FoodItem": "Coconut pickle (Nariyal ka aachar)",
+      "Calories": 517.26,
+      "Protein": 3.02,
+      "Carbs": 11.53,
+      "Fat": 51.71,
+      "Fibre": 6.35,
+      "Sugar": 8.98
+    },
+    {
+      "FoodItem": "Lotus stem kofta curry (Kamal kakdi kofta curry)",
+      "Calories": 633.56,
+      "Protein": 0.96,
+      "Carbs": 5.01,
+      "Fat": 67.76,
+      "Fibre": 1.01,
+      "Sugar": 0.88
+    },
+    {
+      "FoodItem": "Veg manchurian",
+      "Calories": 585.64,
+      "Protein": 0.89,
+      "Carbs": 6.82,
+      "Fat": 61.65,
+      "Fibre": 1.16,
+      "Sugar": 0.76
+    },
+    {
+      "FoodItem": "Fried fish and Chips (English Style) (Tali hui machli aur chips)",
+      "Calories": 651.75,
+      "Protein": 3.36,
+      "Carbs": 2.77,
+      "Fat": 69.69,
+      "Fibre": 0.29,
+      "Sugar": 0.17
+    },
+    {
+      "FoodItem": "Minced meat cutlet",
+      "Calories": 531.86,
+      "Protein": 5.1,
+      "Carbs": 5.61,
+      "Fat": 54.47,
+      "Fibre": 0.4,
+      "Sugar": 0.31
+    },
+    {
+      "FoodItem": "Spinach paneer kofta curry (Palak paneer kofta curry)",
+      "Calories": 606.03,
+      "Protein": 1.43,
+      "Carbs": 2.94,
+      "Fat": 65.41,
+      "Fibre": 0.75,
+      "Sugar": 1.16
+    },
+    {
+      "FoodItem": "Spring roll",
+      "Calories": 623.87,
+      "Protein": 1.81,
+      "Carbs": 8.56,
+      "Fat": 64.63,
+      "Fibre": 0.67,
+      "Sugar": 0.6
+    },
+    {
+      "FoodItem": "Potato samosa (Aloo ka samosa)",
+      "Calories": 577.39,
+      "Protein": 1.71,
+      "Carbs": 9.21,
+      "Fat": 59.19,
+      "Fibre": 1.19,
+      "Sugar": 0.29
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Rock climbing, ascending rock",
+      "Calories_per_kg": 2.2652519880597,
+      "Category": "Mixed",
+      "Est_Cals_session": 158.56763916417898,
+      "demo_link": "https://www.youtube.com/results?search_query=Rock+climbing%2C+ascending+rock"
+    },
+    {
+      "Activity": "Rowing machine, very vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 172.9742626865673,
+      "demo_link": "https://www.youtube.com/results?search_query=Rowing+machine%2C+very+vigorous"
+    },
+    {
+      "Activity": "Canoeing, rowing, vigorous",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 172.9742626865673,
+      "demo_link": "https://www.youtube.com/results?search_query=Canoeing%2C+rowing%2C+vigorous"
+    },
+    {
+      "Activity": "Crew, sculling, rowing, competition",
+      "Calories_per_kg": 2.47106089552239,
+      "Category": "Mixed",
+      "Est_Cals_session": 172.9742626865673,
+      "demo_link": "https://www.youtube.com/results?search_query=Crew%2C+sculling%2C+rowing%2C+competition"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 201.7875097313432,
+      "demo_link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Calories_per_kg": 2.88267871044776,
+      "Category": "Cardio",
+      "Est_Cals_session": 201.7875097313432,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    },
+    {
+      "Activity": "Stationary cycling, vigorous",
+      "Calories_per_kg": 2.16234753432836,
+      "Category": "Mixed",
+      "Est_Cals_session": 151.3643274029852,
+      "demo_link": "https://www.youtube.com/results?search_query=Stationary+cycling%2C+vigorous"
+    },
+    {
+      "Activity": "Running, 7 mph (8.5 min mile)",
+      "Calories_per_kg": 2.36815644179104,
+      "Category": "Cardio",
+      "Est_Cals_session": 165.7709509253728,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+7+mph+%288.5+min+mile%29"
+    },
+    {
+      "Activity": "Running, 7.5mph (8 min mile)",
+      "Calories_per_kg": 2.57464235223881,
+      "Category": "Cardio",
+      "Est_Cals_session": 180.2249646567167,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+7.5mph+%288+min+mile%29"
+    },
+    {
+      "Activity": "Running, 10.9 mph (5.5 min mile)",
+      "Calories_per_kg": 3.70659134328358,
+      "Category": "Cardio",
+      "Est_Cals_session": 259.4613940298506,
+      "demo_link": "https://www.youtube.com/results?search_query=Running%2C+10.9+mph+%285.5+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Aim for 300-500 kcal/day deficit along with regular exercise."
+  ]
+}

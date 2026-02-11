@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "user": {
+      "name": "Ashish Lokapure",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 167.0,
+      "weight_kg": 56.0,
+      "goal": "Maintain Weight",
+      "diet_pref": "Veg",
+      "medical": "Diabetes"
+    },
+    "generated_at": "2025-11-25 14:27:51.710272",
+    "calorie_target": 2081
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Masala urad dal vada",
+      "Calories": 703.78,
+      "Protein": 4.32,
+      "Carbs": 9.93,
+      "Fat": 71.62,
+      "Fibre": 2.71,
+      "Sugar": 0.7
+    },
+    {
+      "FoodItem": "Shammi kebab",
+      "Calories": 685.69,
+      "Protein": 4.52,
+      "Carbs": 3.54,
+      "Fat": 72.61,
+      "Fibre": 1.05,
+      "Sugar": 0.31
+    },
+    {
+      "FoodItem": "Soyabean tikki",
+      "Calories": 698.17,
+      "Protein": 3.53,
+      "Carbs": 4.39,
+      "Fat": 74.02,
+      "Fibre": 2.2,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Gram flour poori (Besan poori)",
+      "Calories": 697.66,
+      "Protein": 2.59,
+      "Carbs": 10.93,
+      "Fat": 71.51,
+      "Fibre": 1.94,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Paneer cutlet",
+      "Calories": 672.2,
+      "Protein": 4.59,
+      "Carbs": 7.62,
+      "Fat": 69.38,
+      "Fibre": 0.39,
+      "Sugar": 2.52
+    },
+    {
+      "FoodItem": "Peanut cutlet (Mungfali ke cutlet)",
+      "Calories": 698.77,
+      "Protein": 2.63,
+      "Carbs": 5.68,
+      "Fat": 74.0,
+      "Fibre": 1.21,
+      "Sugar": 0.51
+    },
+    {
+      "FoodItem": "Scotch egg",
+      "Calories": 676.89,
+      "Protein": 4.05,
+      "Carbs": 1.91,
+      "Fat": 72.62,
+      "Fibre": 0.36,
+      "Sugar": 0.3
+    },
+    {
+      "FoodItem": "Cumin seeds baghar (Jeera baghar/tadka)",
+      "Calories": 736.81,
+      "Protein": 3.34,
+      "Carbs": 5.22,
+      "Fat": 78.77,
+      "Fibre": 6.01,
+      "Sugar": 0.49
+    },
+    {
+      "FoodItem": "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)",
+      "Calories": 657.57,
+      "Protein": 4.05,
+      "Carbs": 8.68,
+      "Fat": 67.19,
+      "Fibre": 2.65,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Boondi raita",
+      "Calories": 687.72,
+      "Protein": 2.19,
+      "Carbs": 3.96,
+      "Fat": 73.83,
+      "Fibre": 0.46,
+      "Sugar": 1.88
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Stair machine",
+      "Category": "Cardio",
+      "Cal/kg": 1.85295717014925,
+      "Est_kcal/session": 103.765601528358,
+      "Demo Link": "https://www.youtube.com/results?search_query=Stair+machine"
+    },
+    {
+      "Activity": "Ski machine",
+      "Category": "Cardio",
+      "Cal/kg": 1.44133935522388,
+      "Est_kcal/session": 80.71500389253728,
+      "Demo Link": "https://www.youtube.com/results?search_query=Ski+machine"
+    },
+    {
+      "Activity": "Aerobics, low impact",
+      "Category": "Cardio",
+      "Cal/kg": 1.02972154029851,
+      "Est_kcal/session": 57.66440625671656,
+      "Demo Link": "https://www.youtube.com/results?search_query=Aerobics%2C+low+impact"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Category": "Strength",
+      "Cal/kg": 1.64782526567164,
+      "Est_kcal/session": 92.27821487761183,
+      "Demo Link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Category": "Strength",
+      "Cal/kg": 1.23485344477612,
+      "Est_kcal/session": 69.15179290746272,
+      "Demo Link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Maintain balance of cardio and strength training for overall fitness.",
+    "Diet filtered for medical condition: Diabetes. Consult a doctor for specific advice."
+  ]
+}

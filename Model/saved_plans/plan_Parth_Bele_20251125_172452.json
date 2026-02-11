@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "user": {
+      "name": "Parth Bele",
+      "age": 19,
+      "gender": "Male",
+      "height_cm": 156.0,
+      "weight_kg": 47.0,
+      "goal": "Gain Weight",
+      "diet_pref": "NonVeg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 17:24:52.074709",
+    "calorie_target": 2163
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Cumin seeds baghar (Jeera baghar/tadka)",
+      "Calories": 736.81,
+      "Protein": 3.34,
+      "Carbs": 5.22,
+      "Fat": 78.77,
+      "Fibre": 6.01,
+      "Sugar": 0.49
+    },
+    {
+      "FoodItem": "Soyabean tikki",
+      "Calories": 698.17,
+      "Protein": 3.53,
+      "Carbs": 4.39,
+      "Fat": 74.02,
+      "Fibre": 2.2,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Vegeterian scotch egg",
+      "Calories": 681.67,
+      "Protein": 2.16,
+      "Carbs": 4.64,
+      "Fat": 72.77,
+      "Fibre": 0.58,
+      "Sugar": 0.23
+    },
+    {
+      "FoodItem": "Coconut burfi (Nariyal ki burfi)",
+      "Calories": 467.64,
+      "Protein": 8.81,
+      "Carbs": 32.15,
+      "Fat": 34.63,
+      "Fibre": 3.5,
+      "Sugar": 31.5
+    },
+    {
+      "FoodItem": "Fried fish (Indian style) (Tali hui machli)",
+      "Calories": 658.54,
+      "Protein": 4.35,
+      "Carbs": 5.4,
+      "Fat": 68.88,
+      "Fibre": 0.61,
+      "Sugar": 0.4
+    },
+    {
+      "FoodItem": "Potato stuffed poori (Aloo ki poori)",
+      "Calories": 776.74,
+      "Protein": 1.52,
+      "Carbs": 9.4,
+      "Fat": 81.35,
+      "Fibre": 1.64,
+      "Sugar": 0.26
+    },
+    {
+      "FoodItem": "Gram flour ladoo (Besan ladoo)",
+      "Calories": 476.91,
+      "Protein": 8.93,
+      "Carbs": 62.61,
+      "Fat": 22.76,
+      "Fibre": 4.43,
+      "Sugar": 37.76
+    },
+    {
+      "FoodItem": "Fish orly",
+      "Calories": 563.7,
+      "Protein": 5.87,
+      "Carbs": 4.27,
+      "Fat": 58.18,
+      "Fibre": 0.33,
+      "Sugar": 0.24
+    },
+    {
+      "FoodItem": "Gram flour poori (Besan poori)",
+      "Calories": 697.66,
+      "Protein": 2.59,
+      "Carbs": 10.93,
+      "Fat": 71.51,
+      "Fibre": 1.94,
+      "Sugar": 0.35
+    },
+    {
+      "FoodItem": "Fish finger",
+      "Calories": 542.9,
+      "Protein": 5.66,
+      "Carbs": 4.47,
+      "Fat": 55.82,
+      "Fibre": 0.34,
+      "Sugar": 0.17
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Weight lifting, body building, vigorous",
+      "Calories_per_kg": 1.23485344477612,
+      "Category": "Strength",
+      "Est_Cals_session": 58.03811190447764,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+body+building%2C+vigorous"
+    },
+    {
+      "Activity": "Pushing stroller or walking with children",
+      "Calories_per_kg": 0.515199271641791,
+      "Category": "Strength",
+      "Est_Cals_session": 24.21436576716418,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+stroller+or+walking+with+children"
+    },
+    {
+      "Activity": "Calisthenics, vigorous, pushups, situps\u2026",
+      "Calories_per_kg": 1.64782526567164,
+      "Category": "Strength",
+      "Est_Cals_session": 77.44778748656708,
+      "demo_link": "https://www.youtube.com/results?search_query=Calisthenics%2C+vigorous%2C+pushups%2C+situps%E2%80%A6"
+    },
+    {
+      "Activity": "Walking, pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Walking%2C+pushing+a+wheelchair"
+    },
+    {
+      "Activity": "Weight lifting, light workout",
+      "Calories_per_kg": 0.61742672238806,
+      "Category": "Strength",
+      "Est_Cals_session": 29.01905595223882,
+      "demo_link": "https://www.youtube.com/results?search_query=Weight+lifting%2C+light+workout"
+    },
+    {
+      "Activity": "Golf, walking and pulling clubs",
+      "Calories_per_kg": 0.885519904477612,
+      "Category": "Strength",
+      "Est_Cals_session": 41.619435510447765,
+      "demo_link": "https://www.youtube.com/results?search_query=Golf%2C+walking+and+pulling+clubs"
+    },
+    {
+      "Activity": "Curling",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Curling"
+    },
+    {
+      "Activity": "Pushing a wheelchair",
+      "Calories_per_kg": 0.823235629850746,
+      "Category": "Strength",
+      "Est_Cals_session": 38.692074602985066,
+      "demo_link": "https://www.youtube.com/results?search_query=Pushing+a+wheelchair"
+    }
+  ],
+  "tips": [
+    "Increase workout frequency to at least 3 days/week for better results.",
+    "Increase calorie intake and train progressively with strength exercises."
+  ]
+}

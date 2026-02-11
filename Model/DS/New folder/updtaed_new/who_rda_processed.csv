@@ -1,0 +1,9 @@
+AgeGroup,Gender,ActivityLevel,Calories,Protein_g,Carbs_g,Fat_g,Fibre_g,Sugar_g
+19-30,Male,Sedentary,2400,56,300,70,25,30
+19-30,Male,Active,2800,60,350,80,30,35
+19-30,Female,Sedentary,2000,46,250,60,25,25
+19-30,Female,Active,2200,50,275,70,28,30
+31-50,Male,Sedentary,2300,56,290,70,25,30
+31-50,Female,Sedentary,1900,46,240,55,25,25
+50+,Male,Sedentary,2100,53,260,65,25,25
+50+,Female,Sedentary,1800,43,230,50,22,22

@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "user": {
+      "name": "",
+      "age": 25,
+      "gender": "Male",
+      "height_cm": 170.0,
+      "weight_kg": 70.0,
+      "goal": "Lose Weight",
+      "diet_pref": "Veg",
+      "medical": "None"
+    },
+    "generated_at": "2025-11-25 13:10:37.855915",
+    "calorie_target": 1758
+  },
+  "diet_top": [
+    {
+      "FoodItem": "Peanut burfi (Moongfali ki burfi)",
+      "Calories": 550.99,
+      "Protein": 9.31,
+      "Carbs": 0.0,
+      "Fat": 36.84,
+      "Fibre": 4.09,
+      "Sugar": 43.08
+    },
+    {
+      "FoodItem": "Chicken pakora/pakoda",
+      "Calories": 590.09,
+      "Protein": 6.03,
+      "Carbs": 0.0,
+      "Fat": 60.98,
+      "Fibre": 0.96,
+      "Sugar": 0.22
+    },
+    {
+      "FoodItem": "Mustard seeds baghar (Mustard seed tadka)",
+      "Calories": 552.59,
+      "Protein": 4.73,
+      "Carbs": 0.0,
+      "Fat": 54.3,
+      "Fibre": 9.74,
+      "Sugar": 1.14
+    },
+    {
+      "FoodItem": "Poshtik namak paras",
+      "Calories": 613.39,
+      "Protein": 6.49,
+      "Carbs": 0.0,
+      "Fat": 56.58,
+      "Fibre": 4.55,
+      "Sugar": 0.87
+    },
+    {
+      "FoodItem": "Rice murukku",
+      "Calories": 593.99,
+      "Protein": 5.41,
+      "Carbs": 0.0,
+      "Fat": 48.22,
+      "Fibre": 2.18,
+      "Sugar": 0.17
+    },
+    {
+      "FoodItem": "Fish pakora/pakoda",
+      "Calories": 577.03,
+      "Protein": 5.97,
+      "Carbs": 0.0,
+      "Fat": 59.52,
+      "Fibre": 0.96,
+      "Sugar": 0.22
+    },
+    {
+      "FoodItem": "Peas kachori (Matar kachori)",
+      "Calories": 584.68,
+      "Protein": 3.21,
+      "Carbs": 0.0,
+      "Fat": 57.51,
+      "Fibre": 2.03,
+      "Sugar": 0.5
+    },
+    {
+      "FoodItem": "Sunflower cookies",
+      "Calories": 520.62,
+      "Protein": 9.49,
+      "Carbs": 0.0,
+      "Fat": 36.28,
+      "Fibre": 3.95,
+      "Sugar": 24.28
+    },
+    {
+      "FoodItem": "Sev (Omapodi/Karapusa)",
+      "Calories": 609.14,
+      "Protein": 5.12,
+      "Carbs": 0.0,
+      "Fat": 60.08,
+      "Fibre": 2.35,
+      "Sugar": 0.53
+    },
+    {
+      "FoodItem": "Peas poori (Matar ki poori)",
+      "Calories": 592.83,
+      "Protein": 3.04,
+      "Carbs": 0.0,
+      "Fat": 57.69,
+      "Fibre": 2.25,
+      "Sugar": 0.48
+    }
+  ],
+  "exercise_top": [
+    {
+      "Activity": "Running, 10.9 mph (5.5 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.70659134328358,
+      "Est_kcal/session": 259.4613940298506,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+10.9+mph+%285.5+min+mile%29"
+    },
+    {
+      "Activity": "Cross country skiing, uphill",
+      "Category": "Cardio",
+      "Cal/kg": 3.39787798208955,
+      "Est_kcal/session": 237.8514587462685,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+uphill"
+    },
+    {
+      "Activity": "Running, 10 mph (6 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 230.64814698507467,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+10+mph+%286+min+mile%29"
+    },
+    {
+      "Activity": "Cycling, >20 mph, racing",
+      "Category": "Mixed",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 230.64814698507467,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cycling%2C+%3E20+mph%2C+racing"
+    },
+    {
+      "Activity": "Skin diving, fast",
+      "Category": "Cardio",
+      "Cal/kg": 3.29497352835821,
+      "Est_kcal/session": 230.64814698507467,
+      "Demo Link": "https://www.youtube.com/results?search_query=Skin+diving%2C+fast"
+    },
+    {
+      "Activity": "Speed skating, ice, competitive",
+      "Category": "Mixed",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 216.24152346268642,
+      "Demo Link": "https://www.youtube.com/results?search_query=Speed+skating%2C+ice%2C+competitive"
+    },
+    {
+      "Activity": "Running, 9 mph (6.5 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 216.24152346268642,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+9+mph+%286.5+min+mile%29"
+    },
+    {
+      "Activity": "Running, stairs, up",
+      "Category": "Cardio",
+      "Cal/kg": 3.08916462089552,
+      "Est_kcal/session": 216.24152346268642,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+stairs%2C+up"
+    },
+    {
+      "Activity": "Cross country skiing, racing",
+      "Category": "Cardio",
+      "Cal/kg": 2.88267871044776,
+      "Est_kcal/session": 201.7875097313432,
+      "Demo Link": "https://www.youtube.com/results?search_query=Cross+country+skiing%2C+racing"
+    },
+    {
+      "Activity": "Running, 8.6 mph (7 min mile)",
+      "Category": "Cardio",
+      "Cal/kg": 2.88267871044776,
+      "Est_kcal/session": 201.7875097313432,
+      "Demo Link": "https://www.youtube.com/results?search_query=Running%2C+8.6+mph+%287+min+mile%29"
+    }
+  ],
+  "tips": [
+    "Aim for 300-500 kcal/day deficit."
+  ]
+}
